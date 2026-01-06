@@ -1,4 +1,4 @@
-# Tanmatsu Meshtastic UI Port
+# Tanmatsu/Konsool Meshtastic UI Port
 
 ## Usage
 
